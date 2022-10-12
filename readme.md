@@ -1,0 +1,1 @@
+<img src="https://github.com/Santhoshlesk/sunnyside-landing-page/blob/master/Design/Desktop%20view.jpeg" alt="sunnyside-landing-page">
